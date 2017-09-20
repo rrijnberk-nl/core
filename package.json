@@ -1,5 +1,6 @@
 {
-  "name": "@rrijnberk/core",
+  "name": "core",
+  "scope": "@rrijnberk",
   "version": "1.0.0",
   "description": "rrijnberk.nl core libraries",
   "main": "index.js",
