@@ -1,0 +1,6 @@
+deploy:
+  provider: npm
+  email: "r.rijnberk@gmail.com"
+  api_key: "c6b7701f-5080-413b-a0b7-2f00b58aebb8"
+  on:
+      branch: master
