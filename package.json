@@ -1,6 +1,8 @@
 {
-  "name": "core",
-  "scope": "@rrijnberk",
+  "name": "@rrijnberk/core",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0",
   "description": "rrijnberk.nl core libraries",
   "main": "index.js",
