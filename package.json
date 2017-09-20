@@ -1,0 +1,24 @@
+{
+  "name": "@rrijnberk/core",
+  "version": "1.0.0",
+  "description": "rrijnberk.nl core libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rrijnberk-nl/core.git"
+  },
+  "keywords": [
+    "rrijnberk.nl",
+    "core",
+    "library"
+  ],
+  "author": "R.Rijnberk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrijnberk-nl/core/issues"
+  },
+  "homepage": "https://github.com/rrijnberk-nl/core#readme"
+}
